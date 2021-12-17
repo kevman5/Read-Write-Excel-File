@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\bin\Debug\Read_Write_ExcelFile.exe.config
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\bin\Debug\Read_Write_ExcelFile.exe
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\bin\Debug\Read_Write_ExcelFile.pdb
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.Form1.resources
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.Properties.Resources.resources
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.exe
+C:\Users\kevmm\source\repos\Read_Write_ExcelFile\Read_Write_ExcelFile\obj\Debug\Read_Write_ExcelFile.pdb
